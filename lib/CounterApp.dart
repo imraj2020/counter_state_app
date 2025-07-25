@@ -14,6 +14,7 @@ class CounterApp extends StatelessWidget {
       ),
       home: Home(),
       initialBinding: ControllerBinder(),
+
     );
   }
 }
